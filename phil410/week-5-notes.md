@@ -3,7 +3,7 @@
 - SM'. If I think I know that *p*, then I know that *p*.
 - Does Socrates ever claim to know anything (**29B**)?
 
-> If I think about something, then that thing exist.
+> If I think about something, then that thing exists.
 
 This claim is about reality.
 

@@ -9,4 +9,6 @@ Relation of mind to body, nature of thought and knowing, the free will problem, 
 Presentation of the seminal ideas of several influential Africana thinkers; recovery of the neglected traditions in which these thinkers locate themselves.
 ### PHIL 410 - Classical Philosophy
 Major philosophers from 600 B.C. to the end of the third century A.D. including the Pre-Socratics, Socrates, Plato, Aristotle, Hellenistic and Roman philosophy and the Neo-Platonists.
+### CSCE 481 - Seminar
+Investigation and report by students on topics of current interest in computer science.
 

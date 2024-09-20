@@ -10,3 +10,5 @@ This claim is about reality.
 > If I think P, then I know P.
 
 This claim is about knowledge.
+
+Write about this for the reading reflection.

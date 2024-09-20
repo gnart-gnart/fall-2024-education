@@ -23,3 +23,5 @@ A semantic engine takes in the syntax, manipulates the symbols, and outputs a ne
 
 ### The Turing Test
 This tests semantic engines to see if they manipulate symbols the same way humans do; it determines whether a computer can do the same operations as a human in an indistinguishable way.
+
+If Fodor's theory is correct, then we engage in slavery by training things to have a mind and forcing them to work and respond to us.

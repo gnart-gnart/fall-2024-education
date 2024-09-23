@@ -27,3 +27,5 @@ The **Combination Reply** says what if we took a brain simulation, put it inside
 The **Other Minds Reply** assumes the problem of other minds (how do you know that anyone else has a mind?) to be true. If the guy in the Chinese room doesn't understand, then what happens if it were a native Chinese speaker in the room? They will still function just like a computer. If Searle is to deny understanding to the system, the computer, then you must deny understanding to other people as well. Searle says we are talking about whether there is understanding, not whether we can know it.
 
 Finally, the **Many Mansions Reply** says there are ways other than programming that can yield understanding. There could be something other than symbol manipulation to understanding. Searle: Sure, but we are talking about Strong AI, so this counterargument is irrelevant.
+
+> I think there is one important thing computers miss from human understanding. Human understanding is perceiving meaning. I know what that feels like, I know what that is. I don't think computers can do that, but how can I prove it? What is the conscious expereince of computers?

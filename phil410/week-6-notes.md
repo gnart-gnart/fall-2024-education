@@ -13,3 +13,12 @@ Socrates is not pious because he doesn't believe in the gods. But what validates
 | Prosecuting out of piety | Being prosecuted for impiety |
 | Accepting the authroity of traditional religion | Testing everything (including authorities) by reason |
 
+### Ethical Disagreements
+
+Hard cases (4a-b, e). How do we resolve disputes? (7b-d) How do we know which side is right, and which is wrong?
+
+**Error theory** - there is no such thing as right and wrong, so no ethical judgement is true.
+
+**Ethical relativism** - *every* ethical statement is true -- true for the *individual* who holds it.
+
+**Ethical skepticism** - No one can *know* if an ethical judgement is true even if *it is* true.

@@ -22,3 +22,8 @@ Hard cases (4a-b, e). How do we resolve disputes? (7b-d) How do we know which si
 **Ethical relativism** - *every* ethical statement is true -- true for the *individual* who holds it.
 
 **Ethical skepticism** - No one can *know* if an ethical judgement is true even if *it is* true.
+
+### Socrates' Definition
+To define *F*, we need to identify some *X*, such that:
+1. *X* is shared by all and only *F*s
+2. *X* explains why they are *F*

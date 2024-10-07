@@ -13,4 +13,6 @@ I want to be careful to avoid saying that there are no rules with any of this or
 
 ## 2nd Argument (majority of the meat)
 
+## Apply it to creation science
+
 ## Conclusion

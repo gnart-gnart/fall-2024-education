@@ -1,0 +1,5 @@
+# Week 7 Reading Response
+
+Aristotle claims that scientific knowledge comes from the acquitance with the principles, conditions, or elements of the science one is studying. He says the reason for this is that we "do not think that we know a thing until we are acquainted with its primary conditions or first principles, and have carried our analysis as far as its simplest elements" (184a). This is logical, but it makes one auxiliary assumption. The key phrase is "think we know." 
+
+In this argument, scientific knowledge is implicitly equated to "what we think we know." This is interesting, because scientific knowledge is often assumed to be true in today's world. But the problem of induction is that we cannot *prove* anything by observing, taking measurements, and experiementing. We can draw conclusions, but it will never truly be irrefutable knowledge about the nature of reality. This is why it makes sense that Aristotle links "scientific knowledge" to "what we think we know," not "what we know." I am not making any counterargument; I just thought this was interesting to think about.

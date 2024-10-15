@@ -25,5 +25,9 @@ Dual-aspect monism can precisely be defined as the view that:
 
 From (1) and (2), it follows that everything physical is also mental or protomental.
 
-## Proponents throughout history
+## Arguments for dual-aspect monsim
+
+
+
+### 4.2.1 The Argument from the Intrinsic Nature of the Physical
 

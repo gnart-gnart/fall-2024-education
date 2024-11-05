@@ -2,7 +2,7 @@
 
 >  by Jean-Paul Sartre
 
-Lumumba and Fanon: 2 great dead men who represent Africe (the whole continent).
+Lumumba and Fanon: 2 great dead men who represent Africa (the whole continent).
 
 | Fanon                                                        | Lumumba                                                      |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
